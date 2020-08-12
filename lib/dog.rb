@@ -1,3 +1,4 @@
 class Dog 
   
-  def initiazlize()
+  def initiazlize(name)
+    
